@@ -1,7 +1,5 @@
 ipywidgets
 pandas
-io
 matplotlib
 numpy
 scipy
-datetime
